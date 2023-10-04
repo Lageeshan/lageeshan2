@@ -8,7 +8,7 @@ Front End Developer
 i am a frontend developer who loves coding.
 
 * 🌍  I'm based in Toronto
-* 🖥️  See my portfolio at [My Portfolio](http://https://lageeshan.portfoliobox.net/)
+* 🖥️  See my portfolio at [My Portfolio](http://lageeshan.portfoliobox.net/)
 * ✉️  You can contact me at [lageeshang@gmail.com](mailto:lageeshang@gmail.com)
 * 🚀  I'm currently working on [Website Creating](http://saiwebsite.com)
 * 🧠  I'm learning react js
